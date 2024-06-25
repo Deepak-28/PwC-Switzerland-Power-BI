@@ -95,4 +95,4 @@ We welcome contributions to enhance this repository! Please follow these steps t
 
 ---
 
-Thank you to The Forage for the  PwC Switzerland Power BI Job Simulation Program! This program is  helped me to  develop my Power BI skills and insightful visualizations.
+Thank you to The Forage for the  PwC Switzerland Power BI Job Simulation Program! This program is  helped me to  develop my Power BI skills and insightful visualizations creations.

@@ -77,7 +77,6 @@ To use the templates and complete the tasks:
 1. **Open Power BI Desktop**.
 2. **Open the respective Power BI file** from the `tasks` directory.
 3. **Load the data** from the `data` directory corresponding to each task.
-4. **Follow the task guides** provided in the `docs` directory for detailed instructions and tips on completing each task.
 
 ## Contributing
 We welcome contributions to enhance this repository! Please follow these steps to contribute:
@@ -96,4 +95,4 @@ We welcome contributions to enhance this repository! Please follow these steps t
 
 ---
 
-Thank you for participating in the PwC Switzerland Power BI Job Simulation Program! We hope these resources help you develop your Power BI skills and create insightful visualizations.
+Thank you to The Forage for the  PwC Switzerland Power BI Job Simulation Program! This program is  helped me to  develop my Power BI skills and insightful visualizations.
